@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Esra Brown
-- 👀 I’m interested in ... painting🎨, traveling ✈️🌎, playing volleyball 🏐 and tennis 🎾
+- 👀 I’m interested in ... programming👩‍💻, painting🎨, traveling ✈️🌎, playing volleyball 🏐 and tennis 🎾
 - 🌱 I’m currently learning full-stack web development
 - 📫 How to reach me {
 -                  e-mail= essrcskn@hotmail.com ,
