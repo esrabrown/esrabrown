@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full-stack web development
 - 📫 How to reach me 
 -                  e-mail= essrcskn@hotmail.com 
--                  linkedIn = linkedin.com/in/esra-brown 
+-                  linkedIn = linkedin.com/in/esrabrown 
 -                  discord= aguilanegrita#7307 
                          
 
