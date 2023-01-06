@@ -1,16 +1,15 @@
-- 👋 Hi, I’m Esra Brown
-- 👀 I’m interested in ... programming👩‍💻, painting🎨, traveling ✈️🌎, playing volleyball 🏐 and tennis 🎾
-- 🌱 I’m currently learning full-stack web development
-- 📫 How to reach me 
--                  e-mail= essrcskn@hotmail.com 
--                  linkedIn = linkedin.com/in/esrabrown 
--                  discord= aguilanegrita#7307 
-                         
+---
 
-<!---
-esrabrown/esrabrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+- My name is Esra Brown
+- ### :woman_technologist: I’m currently learning full-stack web development
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/esrabrown)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
