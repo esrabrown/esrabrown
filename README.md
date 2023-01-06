@@ -8,7 +8,7 @@
 
 - My name is Esra Brown
 - ### :woman_technologist: I’m currently learning full-stack web development
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-esrabrown-blue?style=flat&logo=Linkedin&logoColor=white)]
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-esrabrown-blue?style=flat&logo=Linkedin&logoColor=white)] (linkedin.com/in/esrabrown)
 
 
 
