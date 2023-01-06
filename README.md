@@ -6,7 +6,6 @@
 </h1>
 
 
-- My name is Esra Brown
 - ### :woman_technologist: I’m currently learning full-stack web development
 - 📫 How to reach me: <a href="https://linkedin.com/in/esrabrown">
     <img src="https://img.shields.io/badge/esrabrown-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="90" />
