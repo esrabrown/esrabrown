@@ -24,5 +24,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" />&nbsp;
   <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Angular" alt="Angular" />&nbsp;
-   <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" title="Jasmine" alt="Jasmine" />&nbsp;
+ 
 </div>
+
+<p align="center">
+   <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzc5ZWI1bWZkajJpa2E5cmxidnd3dDRpcjJtOXVwaW41aXdzZ3dhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif">
+   
