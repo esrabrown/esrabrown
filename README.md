@@ -6,8 +6,9 @@
 </h1>
 
 
- :woman_technologist: I’m a full-stack web developer  📫 How to reach me: <a href="https://linkedin.com/in/esrabrown">
-    <img src="https://img.shields.io/badge/esrabrown-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="90" />
+ :woman_technologist: I’m a full-stack web developer 
+ 📫 Reach me: <a href="https://linkedin.com/in/esrabrown">
+    <img src="https://img.shields.io/badge/esrabrown-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="60" />
   </a>
 
 
